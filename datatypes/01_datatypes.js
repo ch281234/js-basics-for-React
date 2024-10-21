@@ -2,8 +2,8 @@
 
 // alert(3+3); // we are using nodejs, not browser
 
-let fname = "Chirayu";
-let age = 27;
+let fname = "Ch";
+let age = 17;
 let isLoggedIn = false;
 let state = null;//empty
 
